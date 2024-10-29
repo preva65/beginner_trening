@@ -1,0 +1,7 @@
+my_string = input('Введите текст : ')
+print('Строка содержит',len(my_string),'символов')
+print('1.', my_string.upper())
+print('2.', my_string.lower())
+print('3.', my_string.replace(' ',''))
+print('4.', my_string[0])
+print('5.', my_string[-1])
